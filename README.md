@@ -1,5 +1,5 @@
 <h1 align="center">Olá, me chamo Gabriel Esquiavoni Azevedo</h1>
-<h3 align="center">Sou um estudante de programação</h3>
+<h3 align="center">Sou um aspirante a programador</h3>
 
 - 🌱 Atualmente: **Me aprofundando em Node.js e C#**
 
